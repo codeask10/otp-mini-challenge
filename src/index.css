@@ -1,0 +1,16 @@
+body {
+  background-color: bisque;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin: 50px
+}
